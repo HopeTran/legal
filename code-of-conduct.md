@@ -1,16 +1,16 @@
-# BITMARK DISTRIBUTED NODE SOFTWARE PROJECT
+# Code of Conduct & Participation Guidelines
 
-## CODE OF CONDUCT AND PARTICIPATION GUIDELINES
+Bitmark Distributed Node Software Project
 
 
-## INTRODUCTION
+## Introduction
 
 This code of conduct applies to all spaces managed by Bitmark Inc. in connection with the Bitmark distributed node software project, including: IRC, all public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channel used by our communities. We expect this code of conduct to be honored by everyone who participates in the Bitmark distributed node software project community formally or informally.
 
-This code <span style="text-decoration:underline;">is not exhaustive or complete</span>. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the technical communities in which we participate.
+This code **is not exhaustive or complete**. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the technical communities in which we participate.
 
 
-## SPECIFIC GUIDELINES
+## Specific Guidelines
 
 We strive to:
 
@@ -41,7 +41,7 @@ We strive to:
 1.  **Step down considerately.** Members of every project come and go. When somebody leaves or disengages from the project they should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off. In doing so, they should remain respectful of those who continue to participate in the project and should not misrepresent the project's goals or achievements. Likewise, community members should respect any individual's choice to leave the project.
 
 
-## DIVERSITY STATEMENT
+## Diversity Statement
 
 The Bitmark distributed node software project welcomes and encourages participation by everyone. We are committed to being a community that everyone feels good about joining. Although we may not be able to satisfy everyone, we will always work to treat everyone well.
 
@@ -52,7 +52,7 @@ Though we welcome people fluent in all languages, development of the Bitmark dis
 Standards for behavior in the Bitmark distributed node software project community are detailed above. We expect participants in our community to meet these standards in all their interactions and to help others to do so as well.
 
 
-## REPORTING GUIDELINES
+## Reporting Guidelines
 
 While this code of conduct should be adhered to by participants, we recognize that sometimes people may have a bad day, or be unaware of some of the guidelines in this code of conduct. When that happens, you may reply to them and point out this code of conduct. Such messages may be in public or in private, whatever is most appropriate. However, regardless of whether the message is public or not, it should still adhere to the relevant parts of this code of conduct; in particular, it should not be abusive or disrespectful.
 
@@ -61,10 +61,8 @@ If you believe someone is violating this code of conduct, you may reply to them 
 If the violation is in documentation or code, for example inappropriate pronoun usage or word choice within official documentation, we ask that people report these privately to support@bitmark.com, and, if they have sufficient ability within the project, to resolve or remove the concerning material, being mindful of the perspective of the person originally reporting the issue.
 
 
-## ENDNOTES
+## Endnotes
 
 This code of conduct defines **empathy** as "a vicarious participation in the emotions, ideas, or opinions of others; the ability to imagine oneself in the condition or predicament of another." **Empathetic** is the adjectival form of empathy.
 
-This code of conduct follows the [Apache Code of Conduct](https://www.apache.org/foundation/policies/conduct) very closely.  Changes from that document were made primarily to identify Bitmark Inc. and the Bitmark distributed node software project, to ensure that the correct contact information was provided, and to conform the document to the practices of Bitmark Inc. where they differ (in minor ways) from the practices of the Apache Software Foundation.  
-
-_Last revised: January 17, 20018_
+This code of conduct follows the [Apache Code of Conduct](https://www.apache.org/foundation/policies/conduct) very closely.  Changes from that document were made primarily to identify Bitmark Inc. and the Bitmark distributed node software project, to ensure that the correct contact information was provided, and to conform the document to the practices of Bitmark Inc. where they differ (in minor ways) from the practices of the Apache Software Foundation. 
