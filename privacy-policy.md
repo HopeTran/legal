@@ -45,7 +45,7 @@ We or our email service provider may also use "web beacons" or "tracking pixels"
 
 ## Specific Service Providers 
 
-Presently, the only third-party analytics service provider we use is Piwik Pro. For Piwik Pro's privacy practices see [https://piwik.pro/cloud-privacy-policy](https://piwik.pro/cloud-privacy-policy). To opt out of data recording and analysis by Piwik Pro, see [https://piwik.pro/opt-out](https://piwik.pro/opt-out).
+Presently, the only third-party analytics service provider we use is Google Analytics. For Google's privacy practices see  [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245). To opt out of data recording and analysis by Google, see [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 
 ## Do Not Track
