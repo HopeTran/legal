@@ -13,9 +13,9 @@ We expect you probably got here from bitmark.com.  But just in case you didn't, 
 *   [https://bitmark.com/resources/white-papers](https://bitmark.com/resources/white-papers)
 *   [https://bitmark.com/resources/blockchain](https://bitmark.com/resources/blockchain)
 
-The Bitmark distributed node software project is the means by which the peer-to-peer network implements the Bitmark crypto property system.  
+The Bitmark distributed node software project is the means by which the peer-to-peer network implements the Bitmark Digital property system.  
 
-The core values of both Bitmark Inc. and the Bitmark distributed node software project are transparency and trust.  The end goal of the Bitmark distributed node software project is to develop a means of establishing transparency and trust in crypto property.
+The core values of both Bitmark Inc. and the Bitmark distributed node software project are transparency and trust.  The end goal of the Bitmark distributed node software project is to develop a means of establishing transparency and trust in Digital property.
 
 To that end, this document attempts to transparently establish the principles by which Bitmark Inc. provides the Bitmark distributed node to the community and invites community participation, with the hope of establishing trust in that community.
 
@@ -24,7 +24,7 @@ To that end, this document attempts to transparently establish the principles by
 
 Bitmark Inc. is a venture-funded private company.  Current information regarding our funders is here: [https://bitmark.com/company/about](https://bitmark.com/company/about).  Bitmark Inc. has been to date the main developer of the Bitmark distributed node software project, and we will offer services and products which rely on it, but we don't want to be the only people using it.  We think it can be useful to the wider community.
 
-Just as the larger project of Bitmark Inc. and the Bitmark distributed node software project is a distributed peer-to-peer network for managing and claiming crypto property, we'd like the Bitmark distributed node software project to become a community project.
+Just as the larger project of Bitmark Inc. and the Bitmark distributed node software project is a distributed peer-to-peer network for managing and claiming Digital property, we'd like the Bitmark distributed node software project to become a community project.
 
 
 ## Why not a Foundation?
