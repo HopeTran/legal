@@ -1,9 +1,46 @@
 # Bitmark Inc. Terms of Service
 
+When you use Bitmark's services and products, you entrust us with information about your identity and activities. However, typical terms of service are often long and rarely read, ultimately doing little to generate trust in those services that you use. Unfortunately, Bitmark's terms are also long because that is the way the legal system works.
+
+Thus, while we strongly encourage you to read our terms in full, we introduce the three core principles that have guided Bitmark since our inception in 2014.
+
+Bitmark promises:
+
+**1) To protect you.**
+
+
+
+*   An account is required to register property on the Bitmark blockchain.
+*   A Bitmark account number consists of a very long, randomized number that has no connection to your personal identity.
+*   You will never be required to provide personally identifying information in order to register your data or digital assets.
+*   We do not share or sell information collected from you for commercial purposes. 
+*   For your privacy and security, your account information is never stored on our servers. Bitmark does not store a backup; only you can do so.
+
+**2) To protect your data.**
+
+
+
+*   As far as we are concerned, everything you register using Bitmark belongs to you.
+*   You can transfer your rights in your digital property at any time.
+
+**3) Defend ownership rights to your data.**
+
+
+
+*   A digital property consists of something of value (the "asset") and a unique identifier (the "bitmark certificate") that provides a record of property rights for the asset.
+*   You should think of the bitmark certificate as similar to a property title or deed. Certificates are always public. 
+*   Assets registered with privacy protection are encrypted and inaccessible by everyone except you –  including us.
+*   Assets registered without privacy protection are accessible by anyone; however, in the Bitmark blockchain, property rights to the asset only belong to the holder of the bitmark certificate. Having a copy of the asset does not necessarily  mean owning the property rights to it.
+*   Any asset, private or public, can be authenticated against its bitmark certificate without compromising the privacy of the current (or future) owner.
+
+Again, we strongly encourage you to read the complete terms of service. Our goal is to empower you to understand your rights in the digital environment. The complete details behind our promises are below.
+
+To help you verify our promises and to maintain transparency with you, the [Bitmark Registry](https://hub.docker.com/r/bitmark/bitmark-node/) is open source software.
+
 These Terms of Service (this "Agreement") govern the use of the downloadable and web-based software application (collectively, the "Application") provided by Bitmark Inc. ("Company" or "us"), the website and website domain name and any other linked pages, features, or content, or application services offered from time to time by Company in connection therewith (collectively, the "Website") and any services provided by Company (together with the Website and the Application, the "Services").  Please read this agreement carefully before accessing or using the Application or any other Services.  Each time you access or use the Services, you agree to be bound by this Agreement. If you are an individual entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these terms and conditions, in which case "you" shall refer to such entity. If you do not agree to be bound by this Agreement, you should not access or use the Services. In addition, certain elements of the Services may be subject to additional terms of use.  In the event that any of the additional terms of use governing such elements conflict with this Agreement, the additional terms will control.
 
 
-## Services Description and Agreement Applicability
+## Services description and Agreement applicability
 
 The Services consist primarily of tools allowing users to:
 
@@ -38,7 +75,7 @@ You represent and warrant to Company that: (i) you are an individual and you are
 **Fees and Payment**. Certain of the Services are currently free to use and certain of the Services require payment, as described in our Fee Schedule at [https://bitmark.com/resources/faq#fees](https://bitmark.com/resources/faq#fees). Company reserves the right to require payment of fees for certain or all Services. You shall pay all applicable fees, as described within the Services, in connection with such Services selected by you. Company reserves the right to change its Fee Schedule and to institute new charges at any time, upon notice to you, which may be sent by email or posted within the Services. Your use of the Services following such notification constitutes your acceptance of any new or increased charges. Any fees paid hereunder are non-refundable. Transferors and recipients may not alter pricing after a sale for the purpose of avoiding Company processing fees, or otherwise avoid or attempt to avoid Company's processing fees.
 
 
-## Transferring Digital property
+## Transferring digital property
 
 The following terms govern the use of the Services to transfer bitmarks.  
 
@@ -65,7 +102,7 @@ Company is not responsible for errors made by the Payment Processor, or otherwis
 YOU MUST PROVIDE CURRENT, COMPLETE AND ACCURATE INFORMATION IN ORDER FOR YOUR PAYMENTS TO BE PROCESSED.  YOU MUST PROMPTLY UPDATE AND MAINTAIN THE ACCURACY OF ALL INFORMATION TO ENABLE THE COMPLETION OF YOUR TRANSACTION (SUCH AS A CHANGE IN BILLING OR PAYMENT ADDRESS, BANK ACCOUNT INFORMATION, CREDIT CARD NUMBER, OR CREDIT CARD EXPIRATION DATE), AND YOU MUST PROMPTLY NOTIFY US IF YOUR FORM OF PAYMENT IS CANCELED (E.G., FOR LOSS OR THEFT) OR IF YOU BECOME AWARE OF A POTENTIAL BREACH OF SECURITY, SUCH AS THE UNAUTHORIZED DISCLOSURE OR USE OF A CREDIT OR DEBIT CARD, BANKING INFORMATION, OR YOUR PERSONAL INFORMATION.
 
 
-## Services Content, Use and General Terms
+## Services Content, use and general terms
 
 **Limited License to You**. The Services and the contents thereof (excluding only content originating in the Bitmark Property System, such as bitmarks, Bitmark Property System account identifiers, and transaction records) are intended solely for the use of Services users and may only be used in accordance with the terms of this Agreement. All materials displayed or performed on the Services (including, but not limited to text, graphics, articles, photographs, images, illustrations—also referred to in this Agreement as the "Content", and which includes Digital Assets, Property and other User Submissions (both as defined below)—are protected by copyright and other intellectual property rights. You shall abide by all proprietary rights notices, trademark rules, information, and restrictions contained in any Content, software or materials in the Services and shall not use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, create derivative works based on, perform, or in any way exploit, any of the Content, software, materials, or Services in whole or in part, or otherwise exploit other than as otherwise provided for in these Terms any Content or third party submissions or other proprietary rights not owned by you: (i) without the express prior written consent of the respective owners, and (ii) in any way that violates any third party right.
 
@@ -109,7 +146,7 @@ Company has no control over, and assumes no responsibility for, the content, acc
 **Governing Law; Arbitration**. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to the conflict of laws provisions thereof. Any dispute arising from or relating to the subject matter of this Agreement shall be finally settled by arbitration in San Francisco, California in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. ("JAMS") then in effect.  Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the Superior Court of the City and County of San Francisco, California, and the United States Circuit Court for the Northern District of California located in San Francisco, California.  
 
 
-## Copyright Dispute Policy
+## Copyright dispute policy
 
 Company has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act or DMCA (posted at [http://www.copyright.gov/legislation/dmca.pdf](http://www.copyright.gov/legislation/dmca.pdf)). The address of Company's Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this Section. It is Company's policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed; and (2) remove and discontinue service to repeat offenders.
 
@@ -144,10 +181,10 @@ Once proper bona fide infringement notification is received by the designated ag
 
 Please contact Company's Designated Agent to Receive Notification of Claimed Infringement at the following address:
 
-Copyright Agent
-Bitmark Inc.
-1F No.489-1, Chongyang Rd.
-Nangang Dist., Taipei City 115, Taiwan
+Copyright Agent \
+Bitmark Inc. \
+1F No.489-1, Chongyang Rd. \
+Nangang Dist., Taipei City 115, Taiwan \
 Email: [copyright@bitmark.com](mailto:copyright@bitmark.com)
 
 
