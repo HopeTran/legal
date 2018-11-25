@@ -1,5 +1,7 @@
 # Bitmark Inc. Privacy Policy
 
+_Last updated: 25-NOV 2018_
+
 Bitmark Inc. ("Company") provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of website located at the bitmark.com domain and subdomains ("Web Site"), and the downloadable and web-based software application (collectively, the "Application"), and any services provided by Company (together with the Website and the Application, the "Services").  Any terms not defined in this Privacy Policy are defined in the Company Terms of Service, located here: [https://bitmark.com/terms](https://bitmark.com/terms).
 
 
