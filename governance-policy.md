@@ -1,11 +1,13 @@
 # Governance Policy
 
+_Last updated: 25-NOV 2018_
+
 Bitmark Distributed Node Software Project
 
 
 ## About the Project
 
-We expect you probably got here from bitmark.com.  But just in case you didn't, the explanation of the Bitmark project is here: 
+We expect you probably got here from https://bitmark.com.  But just in case you didn't, the explanation of the Bitmark project is here: 
 
 
 
@@ -13,9 +15,9 @@ We expect you probably got here from bitmark.com.  But just in case you didn't, 
 *   [https://bitmark.com/resources/white-papers](https://bitmark.com/resources/white-papers)
 *   [https://bitmark.com/resources/blockchain](https://bitmark.com/resources/blockchain)
 
-The Bitmark distributed node software project is the means by which the peer-to-peer network implements the Bitmark Digital property system.  
+The Bitmark distributed node software project is the means by which the peer-to-peer network implements the Bitmark Digital Property System.  
 
-The core values of both Bitmark Inc. and the Bitmark distributed node software project are transparency and trust.  The end goal of the Bitmark distributed node software project is to develop a means of establishing transparency and trust in Digital property.
+The core values of both Bitmark Inc. and the Bitmark distributed node software project are transparency and trust. The end goal of the Bitmark distributed node software project is to develop a means of establishing transparency and trust in digital property.
 
 To that end, this document attempts to transparently establish the principles by which Bitmark Inc. provides the Bitmark distributed node to the community and invites community participation, with the hope of establishing trust in that community.
 
@@ -24,7 +26,7 @@ To that end, this document attempts to transparently establish the principles by
 
 Bitmark Inc. is a venture-funded private company.  Current information regarding our funders is here: [https://bitmark.com/company/about](https://bitmark.com/company/about).  Bitmark Inc. has been to date the main developer of the Bitmark distributed node software project, and we will offer services and products which rely on it, but we don't want to be the only people using it.  We think it can be useful to the wider community.
 
-Just as the larger project of Bitmark Inc. and the Bitmark distributed node software project is a distributed peer-to-peer network for managing and claiming Digital property, we'd like the Bitmark distributed node software project to become a community project.
+Just as the larger project of Bitmark Inc. and the Bitmark distributed node software project is a distributed peer-to-peer network for managing and claiming crypto property, we'd like the Bitmark distributed node software project to become a community project.
 
 
 ## Why not a Foundation?
@@ -39,7 +41,7 @@ We chose a permissive license in order to allow the broadest possible set of use
 
 ## Principles of Operation
 
-Bitmark Inc. will maintain the primary code repository for the Bitmark distributed node software project and will retain primary development and maintenance responsibility.  We will also retain control of the code commit decisions, at least until a sufficiently strong community has arisen from which to select trusted code committers.
+Bitmark Inc. will maintain the primary code repository for the Bitmark distributed node software project and will retain primary development and maintenance responsibility.  We will also retain control of the codecommit decisions, at least until a sufficiently strong community has arisen from which to select trusted code committers.
 
 Bitmark Inc. will also provide one or more community moderators to guide the discussion about the project, again, at least until a sufficiently strong community has arisen from which to select trusted community moderators. 
 
@@ -61,9 +63,10 @@ Although what participants disclose here is public, both community members and B
 
 ## Updates to this Governance Policy
 
-Bitmark Inc. may update this Governance Policy from time to time. We will maintain a revision history in our revision control repository.
+Bitmark Inc. may update this Governance Policy from time to time. We will maintain a [revision history](https://github.com/bitmark-inc/legal/commits/master/governance-policy.md) in our revision control repository.
 
 
 ## Questions
 
 Questions should be directed to: [governance@bitmark.com](mailto:governance@bitmark.com)_._
+

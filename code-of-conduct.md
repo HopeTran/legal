@@ -1,5 +1,7 @@
 # Code of Conduct & Participation Guidelines
 
+_Last updated: 25-NOV 2018_
+
 Bitmark Distributed Node Software Project
 
 
@@ -8,6 +10,8 @@ Bitmark Distributed Node Software Project
 This code of conduct applies to all spaces managed by Bitmark Inc. in connection with the Bitmark distributed node software project, including: IRC, all public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channel used by our communities. We expect this code of conduct to be honored by everyone who participates in the Bitmark distributed node software project community formally or informally.
 
 This code **is not exhaustive or complete**. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the technical communities in which we participate.
+
+_Read our [Governance policy](https://bitmark.com/governance-policy) to learn how to contribute to this project._
 
 
 ## Specific Guidelines
