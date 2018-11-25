@@ -1,5 +1,7 @@
 # Bitmark Inc. Terms of Service
 
+_Last updated: 25-NOV 2018_
+
 When you use Bitmark's services and products, you entrust us with information about your identity and activities. However, typical terms of service are often long and rarely read, ultimately doing little to generate trust in those services that you use. Unfortunately, Bitmark's terms are also long because that is the way the legal system works.
 
 Thus, while we strongly encourage you to read our terms in full, we introduce the three core principles that have guided Bitmark since our inception in 2014.
@@ -40,7 +42,11 @@ To help you verify our promises and to maintain transparency with you, the [Bitm
 These Terms of Service (this "Agreement") govern the use of the downloadable and web-based software application (collectively, the "Application") provided by Bitmark Inc. ("Company" or "us"), the website and website domain name and any other linked pages, features, or content, or application services offered from time to time by Company in connection therewith (collectively, the "Website") and any services provided by Company (together with the Website and the Application, the "Services").  Please read this agreement carefully before accessing or using the Application or any other Services.  Each time you access or use the Services, you agree to be bound by this Agreement. If you are an individual entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these terms and conditions, in which case "you" shall refer to such entity. If you do not agree to be bound by this Agreement, you should not access or use the Services. In addition, certain elements of the Services may be subject to additional terms of use.  In the event that any of the additional terms of use governing such elements conflict with this Agreement, the additional terms will control.
 
 
-## Services description and Agreement applicability
+[TOC]
+
+
+
+## Services description and Agreement applicability {#services-description-and-agreement-applicability}
 
 The Services consist primarily of tools allowing users to:
 
@@ -58,7 +64,7 @@ This Agreement applies to all users of the Services, including without limitatio
 If you have any questions or suggestions, please feel free to email us at [support@bitmark.com](mailto:support@bitmark.com).
 
 
-## Access to the Services
+## Access to the Services {#access-to-the-services}
 
 **Basic Conditions**. While bitmarks and the Bitmark Property System generally serve as records of the ownership and transfer of Digital property and are available through the documented interfaces to the Bitmark Property System, the Services are owned by Company, and the Company only grants you permission to use the Services as made available by the Company.  
 
@@ -75,7 +81,7 @@ You represent and warrant to Company that: (i) you are an individual and you are
 **Fees and Payment**. Certain of the Services are currently free to use and certain of the Services require payment, as described in our Fee Schedule at [https://bitmark.com/resources/faq#fees](https://bitmark.com/resources/faq#fees). Company reserves the right to require payment of fees for certain or all Services. You shall pay all applicable fees, as described within the Services, in connection with such Services selected by you. Company reserves the right to change its Fee Schedule and to institute new charges at any time, upon notice to you, which may be sent by email or posted within the Services. Your use of the Services following such notification constitutes your acceptance of any new or increased charges. Any fees paid hereunder are non-refundable. Transferors and recipients may not alter pricing after a sale for the purpose of avoiding Company processing fees, or otherwise avoid or attempt to avoid Company's processing fees.
 
 
-## Transferring digital property
+## Transferring digital property {#transferring-digital-property}
 
 The following terms govern the use of the Services to transfer bitmarks.  
 
@@ -102,7 +108,7 @@ Company is not responsible for errors made by the Payment Processor, or otherwis
 YOU MUST PROVIDE CURRENT, COMPLETE AND ACCURATE INFORMATION IN ORDER FOR YOUR PAYMENTS TO BE PROCESSED.  YOU MUST PROMPTLY UPDATE AND MAINTAIN THE ACCURACY OF ALL INFORMATION TO ENABLE THE COMPLETION OF YOUR TRANSACTION (SUCH AS A CHANGE IN BILLING OR PAYMENT ADDRESS, BANK ACCOUNT INFORMATION, CREDIT CARD NUMBER, OR CREDIT CARD EXPIRATION DATE), AND YOU MUST PROMPTLY NOTIFY US IF YOUR FORM OF PAYMENT IS CANCELED (E.G., FOR LOSS OR THEFT) OR IF YOU BECOME AWARE OF A POTENTIAL BREACH OF SECURITY, SUCH AS THE UNAUTHORIZED DISCLOSURE OR USE OF A CREDIT OR DEBIT CARD, BANKING INFORMATION, OR YOUR PERSONAL INFORMATION.
 
 
-## Services Content, use and general terms
+## Services Content, use and general terms {#services-content-use-and-general-terms}
 
 **Limited License to You**. The Services and the contents thereof (excluding only content originating in the Bitmark Property System, such as bitmarks, Bitmark Property System account identifiers, and transaction records) are intended solely for the use of Services users and may only be used in accordance with the terms of this Agreement. All materials displayed or performed on the Services (including, but not limited to text, graphics, articles, photographs, images, illustrations—also referred to in this Agreement as the "Content", and which includes Digital Assets, Property and other User Submissions (both as defined below)—are protected by copyright and other intellectual property rights. You shall abide by all proprietary rights notices, trademark rules, information, and restrictions contained in any Content, software or materials in the Services and shall not use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, create derivative works based on, perform, or in any way exploit, any of the Content, software, materials, or Services in whole or in part, or otherwise exploit other than as otherwise provided for in these Terms any Content or third party submissions or other proprietary rights not owned by you: (i) without the express prior written consent of the respective owners, and (ii) in any way that violates any third party right.
 
@@ -131,7 +137,7 @@ You are responsible for all of your activity in connection with the Services. An
 IN NO EVENT SHALL COMPANY, OR ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY (I) FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF $100 OR THE FEES PAID BY YOU FOR THE SERVICES DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM; (II) FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER; (III) FOR DATA LOSS OR COST OF PROCUREMENT OF ANY SUBSTITUTE GOODS OR SERVICES; OR (IV) FOR ANY MATTER BEYOND COMPANY'S REASONABLE CONTROL. TO THE EXTENT THE LAWS OF YOUR JURISDICTION DO NOT PERMIT SUCH A LIMITATION OF LIABILITY, YOU AGREE THAT COMPANY DISCLAIMS ALL LIABILITY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
 
 
-## Third-party Services; Bitmark Property System. 
+## Third-party Services; Bitmark Property System.  {#third-party-services-bitmark-property-system}
 
 The Services may contain links to third party websites or services ("Third Party Services") that are not owned or controlled by Company, or the Services may be accessible by logging in through a Third Party Service, as described more fully in our Privacy Policy, located at [http://bitmark.com/privacy](http://bitmark.com/privacy). When you access Third Party Services, you do so at your own risk. You hereby represent and warrant that you have read and agree to be bound by all applicable policies of any Third Party Services relating to your use of the Services and that you will act in accordance with those policies, in addition to your obligations under this Agreement. 
 
@@ -146,7 +152,7 @@ Company has no control over, and assumes no responsibility for, the content, acc
 **Governing Law; Arbitration**. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to the conflict of laws provisions thereof. Any dispute arising from or relating to the subject matter of this Agreement shall be finally settled by arbitration in San Francisco, California in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. ("JAMS") then in effect.  Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the Superior Court of the City and County of San Francisco, California, and the United States Circuit Court for the Northern District of California located in San Francisco, California.  
 
 
-## Copyright dispute policy
+## Copyright dispute policy {#copyright-dispute-policy}
 
 Company has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act or DMCA (posted at [http://www.copyright.gov/legislation/dmca.pdf](http://www.copyright.gov/legislation/dmca.pdf)). The address of Company's Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this Section. It is Company's policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed; and (2) remove and discontinue service to repeat offenders.
 
@@ -188,6 +194,6 @@ Nangang Dist., Taipei City 115, Taiwan \
 Email: [copyright@bitmark.com](mailto:copyright@bitmark.com)
 
 
-## Contact
+## Contact {#contact}
 
 If you have any questions, complaints, or claims with respect to the Services, you may contact us at [support@bitmark.com](mailto:support@bitmark.com).
